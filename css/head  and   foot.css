@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding:0;
+}
+#all{
+    height: 665px;
+    border: black 1px solid;
+}
+#all .head1{
+        height: 30px;
+        font-size: 15px;
+        background-color: rgba(153, 153, 153, 0.22);
+
+}
+.jiahao{
+    height: 30px;
+    width: 30px;
+    position: static;
+}
+.jiahao:hover{
+    display: block;
+    background-color: #55a532;
+}
+.head2{
+    height: 30px;
+    background-color: rgba(153, 153, 153, 0.22);
+
+}
+.foot {
+    height: 42px;
+    border: black 1px solid;
+    display: flex;
+}
+.foot .tubiao{
+    height:40px ;
+    width: 40px;
+}
